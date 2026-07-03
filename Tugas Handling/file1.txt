@@ -1,0 +1,3 @@
+Halo dari file1 baris 1
+File1 baris 2
+Baris terakhir file1
